@@ -10,4 +10,6 @@ Bioinformatics analysis of RNA-Seq, WGBS, and Hi-C analysis in &lt;i>Arabidopsis
 ### Hi-C Seqencing data mapping and contact matrix construction
 ### Hi-C data visuzalition and IDE analysis
 ### KEE analysis
-### 
+### Call HiC Significant interactions from Hi-C datasets (Fit-Hi-C)
+### Compare Hi-C differential chromatin intertions (DCI) and TE expression.
+
