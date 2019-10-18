@@ -13,6 +13,13 @@ Bioinformatics analysis of RNA-Seq, WGBS, and Hi-C analysis in &lt;i>Arabidopsis
 ### Call HiC Significant interactions from Hi-C datasets (Fit-Hi-C)
 1. fithic approach
 
+
+- How to convert validpairs into RF level contact counts (CC) (In house script)
+- Filter contact counts from pericentromere
+- Normalization
+- Call significant chromatin interactions by fithic
+- Visualize by IGV
+
 2. Selfish
 
 - How to downsample?
