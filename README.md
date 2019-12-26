@@ -1,4 +1,4 @@
-# Bioinformatic analysis code of Heat Stress Project
+# Bioinformatic Analysis Code of Heat Stress Project
 Bioinformatic analysis of RNA-Seq, WGBS, and Hi-C analysis in *Arabidopsis thaliana*
 
 Date: 2019-12-26
