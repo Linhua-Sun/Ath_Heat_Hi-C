@@ -12,7 +12,7 @@ Date: 2019-12-26
 ### 2. Hi-C data visuzalition and IDE analysis
 ### 3. KEE analysis
 ### 4. PC1 of Hi-C and intergration with TE expression
-### 5. Local level chromatin organoization analysis with TE expression 
+### 5. Local level chromatin organization analysis with TE expression 
 
 ## Overall structure
 
