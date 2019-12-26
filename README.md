@@ -16,6 +16,7 @@ Date: 2019-12-26
 
 ## Overall structure
 
+```
 |-- Hi-C_Processing
 |   |-- BatchCompareHi-C_100K.sh
 |   |-- BatchPlotPGT.sh
@@ -55,4 +56,4 @@ Date: 2019-12-26
 |   `-- ss_SE_US_RNA-Seq_Ath.sh
 `-- WGBS_Processing
     `-- PE_WGBS_MethylPy.sh
-
+```
